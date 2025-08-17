@@ -44,9 +44,7 @@ The goals of the course are as follows:
 
 Each report will be graded by the GSI and two anonymous peer reviewers (see below). The overall grade for each report is calculated as:
 
-$$
-50\%\times\text{GSI score}+25\%\times\text{Peer review 1 score}+25\%\times\text{Peer review 2 score}
-$$
+50% times GSI score + 25% times Peer review 1 score + 25% times peer review 2 score
 
 (In cases where one or both of the peer reviews is obviously unfair, the GSI is empowered to reweight the scores as they see fit to ensure fairness.)
 
