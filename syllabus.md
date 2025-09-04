@@ -11,10 +11,10 @@ Lecture
 :   TuTh 2:30-4p, 1210 Chemistry
 
 GSI
-:   Abhiti Mishra <[abhiti@umich](mailto:abhiti@umich.edu)>
+:   Noah Kochanski <[noahkoch@umich](mailto:noahkoch@umich.edu)>
 
 GSI Office hours
-:   TBD
+:   W 4-530pm, usual location for GSI office hours
 
 # Important websites
 
